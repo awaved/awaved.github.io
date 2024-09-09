@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://awaved.github.io/NFI/sitemap.NFI.gz
